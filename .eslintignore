@@ -1,0 +1,9 @@
+# build artifacts
+dist/*
+coverage/*
+# data defs
+**/*.d.ts
+#3rd party libs
+/src/public/
+#custom defs
+/src/types/
